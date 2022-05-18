@@ -1,4 +1,4 @@
-body {
+body , h1{
     margin: 0;
     background-color: #77A8FF;
 }
@@ -46,7 +46,7 @@ a::before{
 
 
 
-#Button {
+.Button {
     display: inline-block;
     background-color: #77A8FF;
     height: 60px;
@@ -61,10 +61,11 @@ a::before{
 
 }
 
-#Button:hover {
+.Button:hover {
     transition: transform 2s linear;
     transform: scale(1.1);
     background-color: #CBD1FF;
   
     
 }
+
