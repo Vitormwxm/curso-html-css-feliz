@@ -1,0 +1,25 @@
+.banner {
+    background-image: url(../../assents/img/WhatsApp\ Image\ 2022-05-19\ at\ 15.55.31.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 800px;
+    border-bottom: 10px solid black;
+}
+
+.banner .wrapper {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+    padding-top: 116px;
+    padding-left: 91px;
+}
+
+.banner .box {
+    margin-bottom: 40px;
+}
+
+.banner .navigation {
+    display: flex;
+    justify-content: space-around;
+}

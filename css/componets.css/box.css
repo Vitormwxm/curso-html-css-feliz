@@ -1,4 +1,4 @@
-#box{
+.box{
     display: inline-block;
     background-color: #79ABC2;
     width: 627px;
@@ -7,6 +7,6 @@
     padding: 44px;
 }
 
-#box h1 {
+.box h1 {
     padding-bottom: 28px;
 }
