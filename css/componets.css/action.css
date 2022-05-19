@@ -1,0 +1,20 @@
+a {
+    display: inline-flex;
+    align-items: center;
+    font-size: 20px;
+    color: #FFF;
+    text-decoration: none;
+    margin-right: 30px;
+    font-family: "Fira code" , Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+a::before{
+    content: "";
+    background-color: #77A8FF;
+    height: 10px;
+    width: 10px;
+    margin-right: 10px;
+    
+
+}

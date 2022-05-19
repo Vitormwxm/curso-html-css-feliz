@@ -1,0 +1,22 @@
+.Button {
+    display: inline-block;
+    background-color: #77A8FF;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 5px 5px 0px black;
+    margin: 0;
+    transition: transform 200ms linear;
+    
+    
+
+}
+
+.Button:hover {
+    transition: transform 2s linear;
+    transform: scale(1.1);
+    background-color: #CBD1FF;
+  
+    
+}
